@@ -1,4 +1,4 @@
-# Cerberus OS Development Documentatiion
+# Cerberus OS Development Documentation
 
   This folder is containing some helpful files for developer and users.
   
